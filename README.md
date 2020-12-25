@@ -10,7 +10,7 @@ Vectorized Python (numpy) based model was used to conceptualize the design befor
 ![N-Body](./nbody.png)
 
 ## Hackster.io link
-![Link to open sourced implementation](https://www.hackster.io/rajeev-patwari-ultra96-2019/ultra96-fpga-accelerated-parallel-n-particle-gravity-sim-87f45e)
+[Link to open sourced implementation](https://www.hackster.io/rajeev-patwari-ultra96-2019/ultra96-fpga-accelerated-parallel-n-particle-gravity-sim-87f45e)
 
 ## Tools used
 * Xilinx Vivado
